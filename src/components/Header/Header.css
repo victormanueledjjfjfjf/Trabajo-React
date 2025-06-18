@@ -1,11 +1,20 @@
-.header {
-    background-color: rgb(62, 131, 108);
-    color: #da7e7e;
-    padding: 20px 0;
-    margin-bottom: 20px;
+.professional-header {
+  background-color: #2a0385;
+  padding: 1.5rem;
+  text-align: center;
+  border-bottom: 1px solid #ffffff;
 }
 
-.header h1 {
-    margin: 0;
-    font-size: 2em;
+.name {
+  color: #030303;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.title {
+  color: #000000;
+  font-size: 1.1rem;
+  margin: 0;
+  font-style: italic;
 }
